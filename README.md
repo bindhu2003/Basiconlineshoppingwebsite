@@ -1,1 +1,1 @@
-# Basiconlineshoppingwebsite
+The Basic shopping website front page was developed using HTML, CSS, BOOTSTRAP. It displays about latest arrivals of shoes and dresses, along with the shoe guide and information about the team. Additionally, it provides details about easy payment and exchange options. And further on it will be included better feautures with javascript and more designs.
